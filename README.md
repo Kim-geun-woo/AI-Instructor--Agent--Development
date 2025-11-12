@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ 기술 스택 (Tech Stack)
+## 🛠 기술 스택 (Tech Stack)
 
 | 분야 | 도구 / 라이브러리 |
 | :--- | :--- |
@@ -110,7 +110,7 @@
 
 ---
 
-## 🖼️ 발표 자료 (Presentation)
+## 🖼 발표 자료 (Presentation)
 
 [![발표자료 확인](https://github.com/user/repo/blob/main/images/ppt_thumbnail.png)](https://github.com/user/repo/blob/main/docs/presentation.pdf)
 > 📌 썸네일을 클릭하면 발표자료 PDF를 바로 확인할 수 있습니다. (링크를 실제 파일 경로로 수정하세요)
