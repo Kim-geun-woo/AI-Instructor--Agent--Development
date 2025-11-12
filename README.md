@@ -60,7 +60,7 @@
 ## 🎥 프로젝트 시연 영상 (MP4)
 
 [![AI 강사 시연 영상](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/blob/main/images/final.png)]([images/lecture_video.mp4](https://youtu.be/W7wCsGLEiKM))
-> 이미지를 클릭하면 시연 영상이 재생됩니다. 
+> 이미지를 클릭하면 유튜브로 이동합니다.
 
 ---
 
