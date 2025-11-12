@@ -34,7 +34,7 @@
 | :--- | :--- |
 | 언어 | Python |
 | LMOps / Agent | **LangChain**, **LangGraph**, OpenAI (GPT-4o-mini) |
-| 데이터 / 파싱 | RAG (Chroma DB), `python-pptx` |
+| 데이터 / 파싱 | RAG (Chroma DB), python-pptx |
 | UI / 환경 | **Gradio**, Google Colab |
 | 영상 / 음성 | gTTS, MoviePy, FFmpeg |
 
