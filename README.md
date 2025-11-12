@@ -27,7 +27,7 @@
 | **영상 제작** | 팀원 F | - `tts`, `Make_video` 노드: TTS 변환 및 MoviePy 기반 슬라이드별 영상 합성 |
 
 > 🔹 본 프로젝트는 팀원 전체의 긴밀한 협업으로 진행되었습니다. 특히 LangGraph의 복잡한 상태(State)를 일관되게 관리하기 위해, Notion으로 실시간으로 공유하고 검증하며 개발을 진행했습니다.
-> 노션 링
+> 노션 링크 https://flawless-paste-002.notion.site/_AI05-_09-2a69f09c2e59805187d8c8398d71b5a3?source=copy_link
 
 ---
 
@@ -59,7 +59,7 @@
 
 ## 🎥 프로젝트 시연 영상 (MP4)
 
-[![AI 강사 시연 영상](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/blob/main/images/final.png)]([images/lecture_video.mp4](https://youtu.be/W7wCsGLEiKM))
+[![AI 강사 시연 영상](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/raw/main/images/final.png)](https://youtu.be/W7wCsGLEiKM)
 > 이미지를 클릭하면 유튜브로 이동합니다.
 
 ---
