@@ -57,13 +57,6 @@
 
 ---
 
-## 🎥 프로젝트 시연 영상 (MP4)
-
-[![AI 강사 시연 영상](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/raw/main/images/final.png)](https://youtu.be/W7wCsGLEiKM)
-> 이미지를 클릭하면 유튜브로 이동합니다.
-
----
-
 ## ✨ 주요 특징 및 구현 내용 
 
 ### ✅ 1. 'Make_quiz' 노드 개발: LLM 기반 복습 퀴즈 생성
@@ -99,6 +92,21 @@
 | **학습 경험** | 강의 영상의 일방적 시청 | **복습 퀴즈(`Make_quiz`) 기능 추가**로 능동적인 학습 경험 유도 |
 | **사용자 맞춤** | 기능 없음 | 말투, 목소리, 재생 속도 등 **사용자 맞춤 옵션** 제공 |
 | **사용성** | Jupyter Notebook 환경에서만 실행 | **Gradio 웹 인터페이스**를 구현하여 누구나 쉽게 사용 |
+
+---
+
+## Gradio 결과
+
+[![Gradio 인터페이스](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/blob/main/images/Gradio%20Interface.png)]
+
+[![Gradio 영상, 퀴즈](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/blob/main/images/Gradio%20quiz%2C%20lecture.png)]
+
+---
+
+## 🎥 프로젝트 시연 영상 (MP4)
+
+[![AI 강사 시연 영상](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/raw/main/images/final.png)](https://youtu.be/W7wCsGLEiKM)
+> 이미지를 클릭하면 유튜브로 이동합니다.
 
 ---
 
