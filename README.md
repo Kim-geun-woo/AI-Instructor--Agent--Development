@@ -96,9 +96,9 @@
 
 ## Gradio 결과
 
-[![Gradio 인터페이스](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/blob/main/images/Gradio%20Interface.png)]
+![Gradio 인터페이스](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/blob/main/images/Gradio%20Interface.png)
 
-[![Gradio 영상, 퀴즈](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/blob/main/images/Gradio%20quiz%2C%20lecture.png)]
+![Gradio 영상, 퀴즈](https://github.com/Kim-geun-woo/AI-Instructor--Agent--Development/blob/main/images/Gradio%20quiz%2C%20lecture.png)
 
 ---
 
